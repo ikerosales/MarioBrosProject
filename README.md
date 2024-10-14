@@ -1,4 +1,5 @@
 # Mario Bros Project in Python
+#### Monica de Álvaro Mena & Iker Rosales Saiz
 
 ### Description:
 
